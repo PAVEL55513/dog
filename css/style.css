@@ -1,0 +1,10 @@
+.card-img-overlay {
+    position: absolute;
+    top: 150px;
+    left: 30px;
+}
+#footer {
+    padding: 20px 20px;
+    background-color: #adb5bd;
+    font-style: italic;
+}
